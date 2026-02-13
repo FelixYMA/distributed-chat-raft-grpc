@@ -6,7 +6,7 @@ A distributed fault-tolerant chat system designed to run on a LAN network with m
 - **RAFT Consensus**: Automatic leader election and data replication
 - **DNS Service**: Automatic service discovery
 - **Data Replication**: Ensures message persistence across server failures
-- **User-friendly GUI**: Clean modern interfac****e for chat clients
+- **User-friendly GUI**: Clean modern interface for chat clients
 - **Consistent Hashing**: For distributed data storage
 - **MapReduce**: Analytics framework for processing chat data
 - **Automatic Reconnection**: Clients automatically reconnect when servers fail
